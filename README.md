@@ -1,5 +1,7 @@
 # CS411 Spring 2027 · Lab 2: Race Detectives
 
+Starter template: https://github.com/cwillpinto/cs411-spring2027-lab02-race-detectives
+
 This student template intentionally contains a data race in `counter.go`. Read the included handout before editing. Do not treat a single passing test run as proof of correctness.
 
 ```sh
@@ -19,7 +21,7 @@ If Blackboard links a template repository, choose **Use this template**, create 
 For a direct clone, first create an empty repository under your account. Replace the placeholders below with the starter link supplied in Blackboard and your own empty repository URL:
 
 ```sh
-git clone <instructor-starter-url>
+git clone https://github.com/cwillpinto/cs411-spring2027-lab02-race-detectives
 cd <cloned-directory>
 git remote rename origin upstream
 git remote add origin <your-empty-repository-url>

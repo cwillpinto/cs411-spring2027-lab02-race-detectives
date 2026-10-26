@@ -5,6 +5,8 @@
 **Due:** January 24, 2027  
 **Value:** 100 points
 
+**Starter repository:** [Open the Spring 2027 starter](https://github.com/cwillpinto/cs411-spring2027-lab02-race-detectives)
+
 ## Purpose
 
 A shared counter loses updates only under particular thread schedules. Reproduce the race, explain one losing interleaving, then protect the complete read-modify-write invariant and verify the repair with Go tooling.
